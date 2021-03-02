@@ -20,7 +20,7 @@ h1#intro	{background:#FFFFDF no-repeat 0 0; color:#FFFFFF; margin:0; padding:20p
 h1#intro a	{text-decoration:none; display:block; }
 
 /*navigation*/
-ul#nav			{text-align: right; margin:0 0 5px 0; padding:10px 10px 10px 10px; background:#232C2D; font-weight: bold;}
+ul#nav			{text-align: left; margin:0 0 5px 0; padding:10px 10px 10px 10px; background:#232C2D; font-weight: bold;}
 #nav li			{margin:0; padding:0; list-style:none; display:inline; color:#232C2D; background:#FFFFFF}
 #nav a			{color:#FFFFFF; text-decoration:none; padding:10px 20px; text-transform:uppercase; background:#232C2D; }
 #nav a:hover	{color:#232C2D; background:#999988}
