@@ -4,12 +4,13 @@ h1		{margin:0; padding:0 0 5px 0; font-family:Open Sans; font-weight:normal; fon
 h2		{margin:0; padding:0 0 5px 0; font-family:Open Sans; font-weight:normal; font-size:180%; }
 a		{color:#000000; text-decoration:none; font-weight: bold; direction: ltr;}
 a:hover	{text-decoration:none; }
-ul      {text-align: left; margin:0 0 0px 0; padding:0px 0px 0px 10px;}
+ul      {text-align: left; margin:0 0 0px 0; padding:0px 0px 0px 10px;font-size:95%;}
 
 /*structural*/
 #all			{margin:5px auto 10px auto; padding:1px; width:1000px; background:#FFFFFF; text-align:left; align: left}
 #content		{float:left; padding:15px 0px 0px 0px; width:auto;}
 #content_p		{float:left; padding:15px 10px 5px 10px; width:auto;}
+#content_p2		{float:left; padding:15px 10px 5px 10px; width:auto; color:black;}
 #rightColumn1	{float:right; padding:5px 10px 5px 20px; width:220px; margin:-505px 0px 0 0; background:#232C2D; border:1px solid #232C2D; color:#FFFFFF; font-size:100%;}
 #rightColumn2	{float:right; padding:10px 10px 10px 20px; width:220px; margin:-470px 0px 0 0; background:#F9EEEC; border:1px solid #232C2D; color:#000000;font-size:87%; }
 #rightbottomColumn{float:right; padding:10px 12px 10px 20px; width:220px; margin:-140px 0px 0 0; background:#232C2D; border:0px solid #232C2D; color:#FFFFFF; font-size:85%;}
