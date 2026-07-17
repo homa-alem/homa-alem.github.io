@@ -10,9 +10,9 @@ ul      {text-align: left;}
 #all			{margin:5px auto 10px auto; padding:1px; width:1050px; background:#FFFFFF; text-align:left; align: left}
 #content		{float:left; padding:0px 0px 0px 0px; width:auto; height:1060px}
 #content_p		{float:left; padding:15px 10px 5px 10px; width:auto;}
-#rightColumn1	{float:right; padding:5px 10px 5px 20px; width:250px; margin:-1020px 0px 0 0; background:#232C2D; border:1px solid #232C2D; color:#FFFFFF; font-size:120%;}
-#rightColumn2	{float:right; padding:10px 10px 5px 20px; width:250px; margin:-985px 0px 0 0; background:#F9EEEC; border:1px solid #232C2D; color:#000000;font-size:110%; }
-#rightbottomColumn{float:right; padding:10px 10px 5px 20px; width:250px; margin:-820px 0px 0 0; background:#F9EEEC; border:1px solid #232C2D; color:#000000; font-size:94%;}
+#rightColumn1	{float:right; padding:5px 10px 5px 20px; width:250px; margin:-1040px 0px 0 0; background:#232C2D; border:1px solid #232C2D; color:#FFFFFF; font-size:120%;}
+#rightColumn2	{float:right; padding:10px 10px 5px 20px; width:250px; margin:-1005px 0px 0 0; background:#F9EEEC; border:1px solid #232C2D; color:#000000;font-size:110%; }
+#rightbottomColumn{float:right; padding:10px 10px 5px 20px; width:250px; margin:-890px 0px 0 0; background:#F9EEEC; border:1px solid #232C2D; color:#000000; font-size:94%;}
 #footer			{clear:both; padding:10px 10px 10px 10px; font-size:80%; background:#232C2D; color:#FFFFFF; }
 #footer span	{float:right; }
 #footer a		{color:#FFFFFF; }
